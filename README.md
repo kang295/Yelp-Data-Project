@@ -38,6 +38,7 @@ This project aimed to build an end-to-end data pipeline by integrating **cloud s
 | `REVIEW_COUNT` | `VARCHAR`        | Total number of reviews the business has received                            |
 | `STARS`        | `NUMBER`         | Average star rating the business has received                                |
 | `CATEGORIES`   | `VARCHAR`        | Comma-separated list of business categories                                  |
+| `OPEN`         | `NUMBER`         | Status whether business is open or permantely closed                         |
 
 
 ---
